@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
 <button>Hi there</button>
