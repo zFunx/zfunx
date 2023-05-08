@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <head>
   <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
-<button>Hi there</button>
+<div id="header">Hi there</button>
