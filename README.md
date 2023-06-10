@@ -12,6 +12,9 @@ I'm a fan of Next.js.
 <a href="https://www.github.com/zfunx" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/zfunx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+### <a href="https://github.com/zFunx/openai-city-search" target="_blank">OpenAI City Search Project</a>
+Sample project showcasing how to use OpenAI's chat completion API for city name suggestions
+
 ### Skills
 
 
