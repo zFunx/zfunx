@@ -15,6 +15,9 @@ src="https://img.shields.io/github/followers/zfunx?logo=github&style=for-the-bad
 ### <a href="https://github.com/zFunx/openai-city-search" target="_blank">OpenAI City Search Project</a>
 Sample project showcasing how to use OpenAI's chat completion API for city name suggestions
 
+### <a href="https://github.com/zFunx/reactprompt" target="_blank">React Prompt</a>
+Use React components as prompt() function without managing their state in the parent component
+
 ### Skills
 
 
@@ -37,11 +40,5 @@ Sample project showcasing how to use OpenAI's chat completion API for city name 
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/zfunx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/zfunx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/v-kas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/zfunx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/zfunx"><img src="https://github-readme-stats.vercel.app/api?username=zfunx&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="zfunx's GitHub stats" /></a>
 
 <a href="https://github.com/zfunx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfunx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
