@@ -7,7 +7,7 @@ Versatile Frontend Developer
 I'm a fan of Next.js.
 
 * ✉️  You can contact me at [vikas9.js@gmail.com](mailto:vikas9.js@gmail.com)
-* 🚀  I'm currently working on [mini-trips.com](http://mini-trips.com)
+* 🚀  I'm currently working on [v-kas.com](http://v-kas.com)
 
 <a href="https://www.github.com/zfunx" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/zfunx?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
